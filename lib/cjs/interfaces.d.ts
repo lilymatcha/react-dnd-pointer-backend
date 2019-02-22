@@ -1,7 +1,6 @@
 export interface HTML5BackendContext {
-	window: Window
+    window: Window;
 }
-
 export interface PointerBackendContext {
-	window: Window
+    window: Window;
 }
